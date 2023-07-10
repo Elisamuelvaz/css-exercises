@@ -1,0 +1,14 @@
+.Me {
+  background-color: black;
+  color: white;
+}
+
+.No {
+  background-color: yellow;
+}
+
+.Me,
+.No {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
